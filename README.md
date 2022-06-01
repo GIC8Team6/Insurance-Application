@@ -1,1 +1,1 @@
-# Insurance-Application
+# Student Management System
